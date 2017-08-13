@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+}
+
+body {
+  padding:            0.5em;
+  font-size:          150%;
+  font-family:        sans-serif;
+  background-color:   #D29ED5;
+}
+
+h1 {
+  margin-top:    0em;
+  margin-bottom: 0em;
+  font-style:    italic;
+  font-size:     150%;
+}
+
+p {
+  margin-top: 0.5em;
+}
+
+li {
+  margin-bottom: 0.80em;
+}
+
+a:link, a:visited, a:active {
+  text-decoration: none;
+  color:           blue;
+}
+
+.indent {
+  padding-left: 0em;
+}
+
+.section {
+  border:            thin solid #777;
+  border-radius:     1em;
+  margin-bottom:     1em;
+  padding:           0 0.7em;
+  background-color:  #D0D0D0;
+}
